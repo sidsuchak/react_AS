@@ -1,0 +1,34 @@
+{
+  "name": "react_as",
+  "version": "1.0.0",
+  "description": "Siddharth React",
+  "keywords": [
+    "sid",
+    "siddharth",
+    "suchak",
+    "react"
+  ],
+  "homepage": "https://github.com/sidsuchak/react_AS#readme",
+  "bugs": {
+    "url": "https://github.com/sidsuchak/react_AS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidsuchak/react_AS.git"
+  },
+  "license": "ISC",
+  "author": "Siddharth",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}
